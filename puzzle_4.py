@@ -1,7 +1,7 @@
 # advent of code 2021
 # Puzzle 4
 # What do you get if you multiply your final horizontal position by your final depth?
-from puzzle_3_input import raw_input 
+from day_2_input import raw_input 
 
 input = raw_input.splitlines()
 

@@ -1,7 +1,7 @@
 # advent of code 2021
 # Puzzle 1
 # How many measurements are larger than the previous measurement?
-from puzzle_1_input import raw_input 
+from day_1_input import raw_input 
 
 input = [int(entry) for entry in raw_input.split()]
 
